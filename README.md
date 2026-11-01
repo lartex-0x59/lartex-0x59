@@ -33,6 +33,8 @@
 - **TeX言語とそのシステム類に関する解説本** / *A guidebook on the TeX language and its associated systems.*
   <!-- - [Repository](https://github.com/...) -->
   - 🔗 リンク準備中 (Wait Please!)
+- **ターミナルで動くポモドーロタイマー・計算機**
+  - [lartex-0x59-pomodoro-c](https://github.com/lartex-0x59/lartex-0x59-pomodoro-c)
 - **中学二年生の自由研究の際に製作したプロジェクトとその他**
   - [saku_kus_summer_report8](https://github.com/lartex-0x59/saku_kus_summer_report8)
 - **e-(u)pTeX向けマクロ: lxplmac**
