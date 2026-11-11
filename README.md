@@ -33,6 +33,7 @@
 - **TeX言語とそのシステム類に関する解説本** / *A guidebook on the TeX language and its associated systems.*
   <!-- - [Repository](https://github.com/...) -->
   - 🔗 リンク準備中 (Wait Please!)
+  - 執筆が後倒しになっています！申し訳ございません。
 - **ターミナルで動くポモドーロタイマー・計算機**
   - [lartex-0x59-pomodoro-c](https://github.com/lartex-0x59/lartex-0x59-pomodoro-c)
 - **中学二年生の自由研究の際に製作したプロジェクトとその他**
@@ -40,6 +41,8 @@
 - **e-(u)pTeX向けマクロ: lxplmac**
   <!-- - [Repository](https://github.com/...) -->
   - 🔗 公開準備中 (Wait Please!)
+  - 現状：禁則処理の設定とガイドの制作が後倒しになっています。
+  - 完了後投稿します。
 
 ## Contacts
 
