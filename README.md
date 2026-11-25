@@ -19,7 +19,7 @@
 ### プログラミング言語 Programming Languages
 
 - **実用的に利用可能 Practically usable:** TeX
-- **学習中 Currently learning:** C/C++, Java, C#, HTML / CSS / JavaScript, R
+- **学習中 Currently learning:** C/C++, HTML / CSS / JavaScript, R, CWEB, Pascal(WEB2C...)
 - **備考 Remarks:** C言語では配列・ポインタ・構造体について学習済みで、現在は `malloc` / `free` による動的メモリ確保について学んでいます。
   - In C, I have learned about arrays, pointers, and structures. I am currently studying dynamic memory allocation using `malloc` / `free`.
 
