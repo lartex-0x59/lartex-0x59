@@ -1,7 +1,11 @@
 # Hi there! I'm Yugo Ikeda 👋
 
 その辺にいる TeX 言語者（日本の中学2年生）です。 興味の向くままに開発してます！ その辺で浮かんでます(?)
+
 *I'm a TeX enthusiast from Japan, currently a second-year junior high school student.I enjoy developing things driven by curiosity and interests.Just floating around somewhere (?)*
+
+TeXは神! LaTeXは神! その辺にいるTeX信者です。
+みなさんもTeXしましょう!!!!
 
 - ペンネーム (Pen name): 楠原 朔 (Saku Kusunobara)
 - 他活動名 (Other alias): らーてくす (lartex-0x59)
